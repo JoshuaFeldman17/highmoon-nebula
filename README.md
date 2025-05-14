@@ -2,11 +2,11 @@
 
 **Nebula** is a modular, solar-powered weather sensing mesh designed for hikers. Each node can be deployed in almost any environment to collect live environmental data such as:
 
-- 🌡️ Temperature
-- 💧 Humidity
-- 🌬️ Wind speed & direction
-- 🌤️ Light level / UV index
-- 📡 LoRa-based or local wireless communication
+- Temperature
+- Humidity
+- Wind speed & direction
+- Light level / UV index
+- LoRa-based or local wireless communication
 ---
 
 ## 🚀 Goals
@@ -28,13 +28,12 @@
 
 ---
 
-## 🧭 Part of the High Moon Ecosystem
+## Part of the High Moon Ecosystem
 
 **High Moon** is a collection of open-source tools designed to support exploration and the outdoors.  
 Nebula is the weather-awareness layer.
 
 ---
 
-## 📜 License
-
+## License
 MIT License
