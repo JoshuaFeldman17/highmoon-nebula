@@ -1,39 +1,41 @@
 # High Moon: Nebula
 
-**Nebula** is a modular, solar-powered weather sensing mesh designed for hikers. Each node can be deployed in almost any environment to collect live environmental data such as:
+**Nebula** is a modular, solar-powered weather sensing mesh designed for hikers and outdoor explorers. Each node can be deployed in nearly any environment to collect real-time environmental data, including:
 
 - Temperature
 - Humidity
 - Wind speed & direction
 - Light level / UV index
 - LoRa-based or local wireless communication
+
 ---
 
 ## Goals
 
-- Provide real-time microclimate insights along hiking
-- Require minimal maintenance (solar, sleep modes, durable casing)
-- Be open-source and fully modifiable by others
-- Function autonomously
+- Deliver real-time microclimate insights along hiking routes and remote trails  
+- Require minimal maintenance (solar power, deep sleep modes, weatherproof casing)  
+- Be fully open-source and modifiable by others  
+- Operate autonomously without constant user intervention  
 
 ---
 
-## Hardware (planned/minimum)
+## Hardware (Planned)
 
-- ESP32 / STM32-based microcontroller
-- Environmental sensor (e.g., DHT22, BME280, SHT31)
-- Anemometer (simple DC motor-based or mechanical)
-- Solar panel + battery + wind turbine
-- LoRa module
+- ESP32 or STM32-based microcontroller  
+- Environmental sensor (e.g., DHT22, BME280, or SHT31)  
+- Anemometer (e.g., DC motor-based or mechanical wind cup)  
+- Power supply: Solar panel + battery (optionally with wind micro-generator)  
+- LoRa module for low-power, long-range communication  
 
 ---
 
 ## Part of the High Moon Ecosystem
 
-**High Moon** is a collection of open-source tools designed to support exploration and the outdoors.  
-Nebula is the weather-awareness layer.
+**High Moon** is a collection of open-source tools designed to empower exploration and self-reliance in the outdoors.  
+**Nebula** is the weather-awareness layer of that vision.
 
 ---
 
 ## License
-MIT License
+
+This project is licensed under the [MIT License](LICENSE).
