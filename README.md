@@ -9,7 +9,7 @@
 - LoRa-based or local wireless communication
 ---
 
-## 🚀 Goals
+## Goals
 
 - Provide real-time microclimate insights along hiking
 - Require minimal maintenance (solar, sleep modes, durable casing)
@@ -18,7 +18,7 @@
 
 ---
 
-## 📦 Hardware (planned/minimum)
+## Hardware (planned/minimum)
 
 - ESP32 / STM32-based microcontroller
 - Environmental sensor (e.g., DHT22, BME280, SHT31)
