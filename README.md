@@ -12,7 +12,7 @@
 
 ## Goals
 
-- Deliver real-time microclimate insights along hiking routes and remote trails  
+- Deliver accurate microclimate insights along hiking routes and the outdoors   
 - Require minimal maintenance (solar power, deep sleep modes, weatherproof casing)  
 - Be fully open-source and modifiable by others  
 - Operate autonomously without constant user intervention  
@@ -21,10 +21,10 @@
 
 ## Hardware (Planned)
 
-- ESP32 or STM32-based microcontroller  
+- ESP32 + Arduino Mega based system  
 - Environmental sensor (e.g., DHT22, BME280, or SHT31)  
 - Anemometer (e.g., DC motor-based or mechanical wind cup)  
-- Power supply: Solar panel + battery (optionally with wind micro-generator)  
+- Power supply: Solar panel + battery + wind micro-generator
 - LoRa module for low-power, long-range communication  
 
 ---
